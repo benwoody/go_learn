@@ -1,7 +1,8 @@
 Go Learn
 --------
+![Go](http://i.imgur.com/TZ3vvrP.png)
 
-This repository houses some of my learnin's on [Go](http://golang.org/).
+This repository houses some of my learnin's on the [Go](http://golang.org/) programming language.
 
 I plan on using various resources to learn, but mainly:
 
