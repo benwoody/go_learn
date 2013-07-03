@@ -13,7 +13,9 @@ Online Tutorials
 
 Websites
 ========
-
+* [Resources for new Go programmers](http://dave.cheney.net/resources-for-new-go-programmers) Great links provided by Dave Cheney
+* [Go by Example](https://gobyexample.com)
 Audio/Video
 ===========
+* [Writing, building, installing and testing Go code](http://www.youtube.com/watch?v=XCsL89YtqCs)
 
